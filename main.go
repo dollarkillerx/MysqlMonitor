@@ -22,6 +22,7 @@ func init() {
 		if e != nil {
 			panic("配置文件创建失败")
 		}
+		panic("请填写配置文件!")
 	}
 }
 
