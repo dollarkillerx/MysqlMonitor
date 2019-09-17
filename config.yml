@@ -1,0 +1,11 @@
+# 通用配置文件
+
+app:
+  corn: "0 */10 * * * *"
+  email: "dollar@dolalr.com"
+
+mysql:
+  dsn: "root:mlbj@(127.0.0.1:3306)/show?charset=utf8"
+
+
+
